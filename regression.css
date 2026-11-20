@@ -1,0 +1,48 @@
+/* Act 05 · single-predictor analysis; keep all selectors local to this section. */
+.atlas-regression{--reg-ink:#413629;--reg-muted:#6c5845;--reg-rule:#cdbc9c;--reg-paper:#fbf5e9;--reg-a:#87462f;--reg-b:#365b67;margin:20px 0 36px;padding:clamp(13px,2.1vw,28px);border:1px solid var(--reg-rule);background:var(--reg-paper);color:var(--reg-ink);min-width:0}
+.atlas-regression .reg-head{max-width:75ch}
+.atlas-regression .reg-head h3,.atlas-regression .reg-outcome h3{font:clamp(20px,2.1vw,29px)/1.45 var(--serif,Georgia,serif);margin:6px 0;color:var(--reg-ink)}
+.atlas-regression p{font-size:.85rem;line-height:1.65;color:var(--reg-muted);margin:.4rem 0 1rem}
+.atlas-regression .reg-reading{padding:10px 12px;border-left:3px solid #b5946d;background:#efe3d2;margin:12px 0 0}
+.atlas-regression .reg-outcome{border-top:1px solid var(--reg-rule);padding:18px 0 16px;margin-top:20px;min-width:0}
+.atlas-regression .reg-outcome h3 span{font: .76rem/1.4 sans-serif;display:inline-block;margin-left:8px;color:var(--reg-muted)}
+.atlas-regression .reg-outcome-lead{margin:3px 0 9px}
+.atlas-regression .reg-top{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;margin:0 0 12px}
+.atlas-regression .reg-top article{padding:9px 12px;border:1px solid var(--reg-rule);background:#f6ebd8;min-width:0}
+.atlas-regression .reg-top article:nth-child(2){border-top:3px solid var(--reg-a)}
+.atlas-regression .reg-top article:nth-child(3){border-top:3px solid var(--reg-b);background:#e8ece5}
+.atlas-regression .reg-top h4{font-size:.87rem;margin:0 0 6px}
+.atlas-regression .reg-top h4 small{margin-left:7px;color:var(--reg-muted);font-weight:400}
+.atlas-regression .reg-top ol{list-style:none;padding:0;margin:0;font-size:.76rem;line-height:1.45}
+.atlas-regression .reg-top li{padding:4px 0;overflow-wrap:anywhere}
+.atlas-regression .reg-top li+li{border-top:1px solid #77604e26}
+.atlas-regression .reg-top li small{display:block;color:var(--reg-muted);font-variant-numeric:tabular-nums}
+.atlas-regression .reg-table-scroll{overflow:auto;max-height:445px;border:1px solid var(--reg-rule);margin:7px 0 13px;max-width:100%;scrollbar-color:#b19977 #f5ede1}
+.atlas-regression .reg-table-scroll:focus-visible{outline:2px solid var(--reg-b);outline-offset:2px}
+.atlas-regression table{border-collapse:separate;border-spacing:0;width:100%;min-width:760px;table-layout:fixed;font-size:.77rem;font-variant-numeric:tabular-nums}
+.atlas-regression caption{text-align:left;padding:8px 10px;color:var(--reg-muted);background:#f2e8da;caption-side:top}
+.atlas-regression :is(th,td){text-align:left;vertical-align:middle;padding:7px 9px;border-bottom:1px solid #ddd0bb;overflow-wrap:anywhere}
+.atlas-regression thead th{position:sticky;top:0;background:#e9dcc7;z-index:1;vertical-align:top}
+.atlas-regression thead th:nth-child(3){color:var(--reg-a);background:#efdcc9}
+.atlas-regression thead th:nth-child(4){color:var(--reg-b);background:#e0e7dd}
+.atlas-regression :is(th,td) small{display:block;font-size:.69rem;color:var(--reg-muted);margin-top:2px;font-weight:400}
+.atlas-regression tbody tr:nth-child(even){background:#f7eee2}
+.atlas-regression tbody tr:hover{background:#efe4d4}
+.atlas-regression .reg-values{display:flex;column-gap:.38em;flex-wrap:wrap;line-height:1.5}
+.atlas-regression .reg-values span{white-space:nowrap}
+.atlas-regression .reg-unavailable{color:var(--reg-muted)}
+.atlas-regression td small.reg-caution{display:inline-block;background:#f0e0be;padding:0 .25rem;border-radius:2px;color:#704922}
+.atlas-regression .reg-day{border:1px solid var(--reg-rule);padding:8px 10px;color:var(--reg-b)}
+.atlas-regression .reg-day summary{cursor:pointer;font-size:.83rem;font-weight:600}
+@media(max-width:540px){.atlas-regression .reg-top{grid-template-columns:1fr}.atlas-regression .reg-table-scroll{max-height:365px}.atlas-regression .reg-outcome{padding-top:12px}}
+
+.atlas-regression .reg-heat-key{display:flex;align-items:center;gap:8px;font-size:.76rem;color:var(--reg-muted)}
+.atlas-regression .reg-heat-key i{width:min(110px,25vw);height:9px;background:linear-gradient(90deg,#f7eedf,#2a5766);border:1px solid #b6a893}
+.atlas-regression .reg-heatmap table{min-width:0;border-spacing:2px;background:#faf4e9}
+.atlas-regression .reg-heatmap thead th:first-child{width:43%}
+.atlas-regression .reg-heatmap thead th:not(:first-child),.atlas-regression .reg-heatmap td{text-align:center}
+.atlas-regression .reg-heatmap td{background:var(--heat,#ece6dd);color:var(--heat-ink,#4c4339);border-bottom:0;padding:4px}
+.atlas-regression .reg-heatmap td b{font-size:.9rem}
+.atlas-regression .reg-heatmap td small{color:inherit;font-size:.65rem}
+.atlas-regression .reg-heatmap .reg-heat-missing{background:repeating-linear-gradient(135deg,#f0ebe2 0 4px,#e6dfd4 4px 5px)}
+@media(max-width:540px){.atlas-regression .reg-heatmap :is(th,td){padding:4px 3px}.atlas-regression .reg-heatmap td b{font-size:.76rem}}

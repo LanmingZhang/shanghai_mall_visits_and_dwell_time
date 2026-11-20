@@ -1,0 +1,44 @@
+{
+  "malls": 19,
+  "districts": {
+    "A": 10,
+    "B": 9
+  },
+  "scales": [
+    1000,
+    5000
+  ],
+  "metrics": 59,
+  "entrances": 110,
+  "entranceMalls": 16,
+  "pending": 11,
+  "localCommercial": 15,
+  "assets": {
+    "01": "01_总体区位图.png",
+    "02": "02_商业面积_本轮采用值.png",
+    "04": "04_商业主体建筑轮廓候选.png",
+    "05": "05_购物中心入口_名称与位置筛查.png",
+    "06": "06_地铁出入口分布_1km背景.png",
+    "07": "07_公交站点分布_1km背景.png",
+    "08": "08_三类道路骨架分布_1km背景.png",
+    "09": "09_周边建筑原始高度中位数_1km.png",
+    "10": "10_周边建筑原始高度中位数_5km.png",
+    "13": "13_建筑基底覆盖率_1km.png",
+    "14": "14_建筑基底覆盖率_5km.png",
+    "15": "15_周边整体开发强度估算_1km.png",
+    "16": "16_周边整体开发强度估算_5km.png",
+    "17": "17_周边活动目的地总数_1km.png",
+    "18": "18_周边活动目的地总数_5km.png"
+  },
+  "sha256": {
+    "data/A_商业_19.csv": "273bfd5acff3d0bef1fcb203804b832a2e2a114f1adb414efd52267c6e69285e",
+    "data/B_建筑_19.csv": "cecdfde3a6d9f771a16387eed5f1ed354dbc80c73802be35369a1f6ff3b5620f",
+    "data/B_周边建筑_38.csv": "0f1fbbcca669ef6f840fb3cd35b6d448228d65a7f9d066dd2660ab3a92ae9d1b",
+    "data/C_背景交通_38.csv": "aa853f8ac507f64ea1269657ccbe390ac74bdbbd80f6786ad67d7e8959ccd607",
+    "data/D_目的地_38.csv": "39a29497e11f370f1e8d8cc0c6ae53edd64d5fabd5c1ee577b3b4dbed5ed37b8",
+    "data/B_购物中心入口点_110.csv": "8dc579f7daee47724aa6bff5ac42321e4a71aaf247a03076c9d5134925b08918",
+    "data/字段字典.csv": "d2f43e8c130ee3e9c97130baf668c17f921830580e2aa202efa57966e48cc073",
+    "data/ABCD_图用空间数据.gpkg": "7b57dd97b248a2ce3fef168971e1c6a20106410fc9095050391db635726a5ce4",
+    "maps/专题图_制图数据.gpkg": "e2daff3bb07c903e4f724fbcbef3a0bba4d38ca20e076f9fa62d20d7a3f8e2cf"
+  }
+}

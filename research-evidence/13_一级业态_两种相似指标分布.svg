@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="930" viewBox="0 0 1600 930">
+<rect width="100%" height="100%" fill="#F7F8FA"/>
+<text x="48" y="64" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="36" font-weight="700">一级业态：组成重合度与JS相似度</text>
+<text x="48" y="104" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400">相同533家、141,778个不重复商场对；排除商场自身；两个指标均展示完整分布</text>
+<text x="90" y="188" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="28" font-weight="700">组成重合度</text>
+<line x1="90" y1="650.0" x2="740" y2="650.0" stroke="#DCE3E9" stroke-width="1"/>
+<text x="32" y="657.0" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">0%</text>
+<line x1="90" y1="552.5" x2="740" y2="552.5" stroke="#DCE3E9" stroke-width="1"/>
+<text x="32" y="559.5" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">4%</text>
+<line x1="90" y1="455.0" x2="740" y2="455.0" stroke="#DCE3E9" stroke-width="1"/>
+<text x="32" y="462.0" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">8%</text>
+<line x1="90" y1="357.5" x2="740" y2="357.5" stroke="#DCE3E9" stroke-width="1"/>
+<text x="32" y="364.5" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">11%</text>
+<line x1="90" y1="260.0" x2="740" y2="260.0" stroke="#DCE3E9" stroke-width="1"/>
+<text x="32" y="267.0" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">15%</text>
+<rect x="92.00" y="636.65" width="28.50" height="13.35" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="124.50" y="639.55" width="28.50" height="10.45" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="157.00" y="635.00" width="28.50" height="15.00" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="189.50" y="629.28" width="28.50" height="20.72" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="222.00" y="623.85" width="28.50" height="26.15" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="254.50" y="606.85" width="28.50" height="43.15" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="287.00" y="591.41" width="28.50" height="58.59" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="319.50" y="580.97" width="28.50" height="69.03" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="352.00" y="559.81" width="28.50" height="90.19" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="384.50" y="543.40" width="28.50" height="106.60" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="417.00" y="494.93" width="28.50" height="155.07" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="449.50" y="461.19" width="28.50" height="188.81" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="482.00" y="429.50" width="28.50" height="220.50" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="514.50" y="378.50" width="28.50" height="271.50" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="547.00" y="356.71" width="28.50" height="293.29" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="579.50" y="327.32" width="28.50" height="322.68" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="612.00" y="335.95" width="28.50" height="314.05" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="644.50" y="403.15" width="28.50" height="246.85" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="677.00" y="532.56" width="28.50" height="117.44" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<rect x="709.50" y="633.44" width="28.50" height="16.56" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<text x="77.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.0</text>
+<text x="207.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.2</text>
+<text x="337.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.4</text>
+<text x="467.00000000000006" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.6</text>
+<text x="597.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.8</text>
+<text x="727.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">1.0</text>
+<text x="90" y="736" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="400">均值 0.6657   中位数 0.7019</text>
+<text x="90" y="771" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400">Q25–Q75：0.5625–0.8066</text>
+<text x="860" y="188" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="28" font-weight="700">JS相似度（1−JSD）</text>
+<line x1="860" y1="650.0" x2="1510" y2="650.0" stroke="#DCE3E9" stroke-width="1"/>
+<text x="802" y="657.0" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">0%</text>
+<line x1="860" y1="552.5" x2="1510" y2="552.5" stroke="#DCE3E9" stroke-width="1"/>
+<text x="802" y="559.5" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">6%</text>
+<line x1="860" y1="455.0" x2="1510" y2="455.0" stroke="#DCE3E9" stroke-width="1"/>
+<text x="802" y="462.0" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">12%</text>
+<line x1="860" y1="357.5" x2="1510" y2="357.5" stroke="#DCE3E9" stroke-width="1"/>
+<text x="802" y="364.5" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">19%</text>
+<line x1="860" y1="260.0" x2="1510" y2="260.0" stroke="#DCE3E9" stroke-width="1"/>
+<text x="802" y="267.0" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400">25%</text>
+<rect x="862.00" y="645.14" width="28.50" height="4.86" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="894.50" y="649.10" width="28.50" height="0.90" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="927.00" y="647.38" width="28.50" height="2.62" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="959.50" y="647.01" width="28.50" height="2.99" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="992.00" y="644.81" width="28.50" height="5.19" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1024.50" y="644.16" width="28.50" height="5.84" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1057.00" y="641.43" width="28.50" height="8.57" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1089.50" y="640.25" width="28.50" height="9.75" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1122.00" y="636.79" width="28.50" height="13.21" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1154.50" y="631.14" width="28.50" height="18.86" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1187.00" y="622.15" width="28.50" height="27.85" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1219.50" y="613.24" width="28.50" height="36.76" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1252.00" y="599.10" width="28.50" height="50.90" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1284.50" y="583.76" width="28.50" height="66.24" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1317.00" y="564.76" width="28.50" height="85.24" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1349.50" y="538.82" width="28.50" height="111.18" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1382.00" y="483.46" width="28.50" height="166.54" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1414.50" y="407.22" width="28.50" height="242.78" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1447.00" y="289.06" width="28.50" height="360.94" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<rect x="1479.50" y="311.24" width="28.50" height="338.76" fill="#E29A4A" stroke="#E29A4A" stroke-width="0.4"/>
+<text x="847.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.0</text>
+<text x="977.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.2</text>
+<text x="1107.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.4</text>
+<text x="1237.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.6</text>
+<text x="1367.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0.8</text>
+<text x="1497.0" y="683" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">1.0</text>
+<text x="860" y="736" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="400">均值 0.8331   中位数 0.8855</text>
+<text x="860" y="771" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400">Q25–Q75：0.7743–0.9437</text>
+<text x="48" y="840" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400">描述性排序相关 Spearman = 0.9503；不以哪个均值更高来挑选“更能证明同质化”的指标。</text>
+<text x="48" y="878" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400">纵轴为商场对比例；两两观测彼此相关，本图不作独立样本显著性检验。</text>
+</svg>

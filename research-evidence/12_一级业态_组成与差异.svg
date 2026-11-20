@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="840" viewBox="0 0 1600 840">
+<rect width="100%" height="100%" fill="#F7F8FA"/>
+<text x="48" y="64" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="36" font-weight="700">一级业态组成：城市平均与商场间差异</text>
+<text x="48" y="104" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400">533家等权；份额为在营去重品牌数占比，不是店铺面积占比；共6类</text>
+<line x1="370.0" y1="145" x2="370.0" y2="428" stroke="#DCE3E9" stroke-width="1"/>
+<text x="355.0" y="137" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">0%</text>
+<line x1="526.9230769230769" y1="145" x2="526.9230769230769" y2="428" stroke="#DCE3E9" stroke-width="1"/>
+<text x="511.9230769230769" y="137" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">10%</text>
+<line x1="683.8461538461538" y1="145" x2="683.8461538461538" y2="428" stroke="#DCE3E9" stroke-width="1"/>
+<text x="668.8461538461538" y="137" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">20%</text>
+<line x1="840.7692307692308" y1="145" x2="840.7692307692308" y2="428" stroke="#DCE3E9" stroke-width="1"/>
+<text x="825.7692307692308" y="137" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">30%</text>
+<line x1="997.6923076923076" y1="145" x2="997.6923076923076" y2="428" stroke="#DCE3E9" stroke-width="1"/>
+<text x="982.6923076923076" y="137" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">40%</text>
+<line x1="1154.6153846153848" y1="145" x2="1154.6153846153848" y2="428" stroke="#DCE3E9" stroke-width="1"/>
+<text x="1139.6153846153848" y="137" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">50%</text>
+<line x1="1311.5384615384617" y1="145" x2="1311.5384615384617" y2="428" stroke="#DCE3E9" stroke-width="1"/>
+<text x="1296.5384615384617" y="137" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400">60%</text>
+<text x="48" y="180" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400">餐饮</text>
+<rect x="370.00" y="165.00" width="711.56" height="20.00" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<line x1="907.7084454007529" y1="195" x2="1229.3406593406594" y2="195" stroke="#E29A4A" stroke-width="5"/>
+<circle cx="1067.4358974358975" cy="195" r="4" fill="#183344"/>
+<text x="1093.559725954" y="180" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400">45.3%</text>
+<text x="48" y="223" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400">零售</text>
+<rect x="370.00" y="208.00" width="419.43" height="20.00" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<line x1="566.1538461538462" y1="238" x2="943.8231917336395" y2="238" stroke="#E29A4A" stroke-width="5"/>
+<circle cx="731.0619469026548" cy="238" r="4" fill="#183344"/>
+<text x="801.4263612427455" y="223" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400">26.7%</text>
+<text x="48" y="266" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400">生活服务</text>
+<rect x="370.00" y="251.00" width="257.47" height="20.00" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<line x1="511.48802017654475" y1="281" x2="713.2692307692307" y2="281" stroke="#E29A4A" stroke-width="5"/>
+<circle cx="610.4466501240695" cy="281" r="4" fill="#183344"/>
+<text x="639.4684734007035" y="266" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400">16.4%</text>
+<text x="48" y="309" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400">文体娱</text>
+<rect x="370.00" y="294.00" width="100.48" height="20.00" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<line x1="404.26268055089" y1="324" x2="506.4548494983277" y2="324" stroke="#E29A4A" stroke-width="5"/>
+<circle cx="444.7252747252747" cy="324" r="4" fill="#183344"/>
+<text x="482.48345757329025" y="309" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400">6.4%</text>
+<text x="48" y="352" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400">儿童亲子</text>
+<rect x="370.00" y="337.00" width="78.70" height="20.00" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<line x1="370.0" y1="367" x2="490.7100591715976" y2="367" stroke="#E29A4A" stroke-width="5"/>
+<circle cx="426.04395604395603" cy="367" r="4" fill="#183344"/>
+<text x="460.70312705421514" y="352" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400">5.0%</text>
+<text x="48" y="395" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400">其它类型</text>
+<rect x="370.00" y="380.00" width="1.59" height="20.00" fill="#116B80" stroke="#116B80" stroke-width="0.4"/>
+<line x1="370.0" y1="410" x2="370.0" y2="410" stroke="#E29A4A" stroke-width="5"/>
+<circle cx="370.0" cy="410" r="4" fill="#183344"/>
+<text x="383.5896240058147" y="395" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400">0.1%</text>
+<text x="48" y="746" fill="#183344" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400">青色条：每商场等权平均份额；橙线：商场份额25%—75%区间；深色点：中位数。</text>
+<text x="48" y="782" fill="#637887" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400">平均构成只描述城市模板；是否“相似”还要看下面的配对分布与每场热图。</text>
+</svg>

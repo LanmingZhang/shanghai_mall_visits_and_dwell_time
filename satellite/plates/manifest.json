@@ -1,0 +1,71 @@
+{
+  "credit": "Esri, Vantor, Earthstar Geographics, and the GIS User Community",
+  "retrieved_at": "2026-11-19T04:18:55.230271+00:00",
+  "crs": "EPSG:32651",
+  "images": [
+    {
+      "area": "A",
+      "kind": "detail",
+      "bbox_32651": [
+        352200.0,
+        3454200.0,
+        355800.0,
+        3457800.0
+      ],
+      "pixels": 2600,
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=352200.0%2C3454200.0%2C355800.0%2C3457800.0&bboxSR=32651&imageSR=32651&size=2600%2C2600&format=jpg&f=image",
+      "original": "A-detail-original.jpg",
+      "display": "A-detail.jpg",
+      "processing": "Grayscale contrast and two-color tint only; no geometry invented.",
+      "capture_date": null
+    },
+    {
+      "area": "A",
+      "kind": "context",
+      "bbox_32651": [
+        347000.0,
+        3449000.0,
+        361000.0,
+        3463000.0
+      ],
+      "pixels": 2000,
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=347000.0%2C3449000.0%2C361000.0%2C3463000.0&bboxSR=32651&imageSR=32651&size=2000%2C2000&format=jpg&f=image",
+      "original": "A-context-original.jpg",
+      "display": "A-context.jpg",
+      "processing": "Grayscale contrast and two-color tint only; no geometry invented.",
+      "capture_date": null
+    },
+    {
+      "area": "B",
+      "kind": "detail",
+      "bbox_32651": [
+        355700.0,
+        3458700.0,
+        359300.0,
+        3462300.0
+      ],
+      "pixels": 2600,
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=355700.0%2C3458700.0%2C359300.0%2C3462300.0&bboxSR=32651&imageSR=32651&size=2600%2C2600&format=jpg&f=image",
+      "original": "B-detail-original.jpg",
+      "display": "B-detail.jpg",
+      "processing": "Grayscale contrast and two-color tint only; no geometry invented.",
+      "capture_date": null
+    },
+    {
+      "area": "B",
+      "kind": "context",
+      "bbox_32651": [
+        350500.0,
+        3453500.0,
+        364500.0,
+        3467500.0
+      ],
+      "pixels": 2000,
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=350500.0%2C3453500.0%2C364500.0%2C3467500.0&bboxSR=32651&imageSR=32651&size=2000%2C2000&format=jpg&f=image",
+      "original": "B-context-original.jpg",
+      "display": "B-context.jpg",
+      "processing": "Grayscale contrast and two-color tint only; no geometry invented.",
+      "capture_date": null
+    }
+  ]
+}

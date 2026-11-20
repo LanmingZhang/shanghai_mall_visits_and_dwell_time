@@ -1,0 +1,407 @@
+{
+  "service": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "credit": "Source: Esri, Vantor, Earthstar Geographics, and the GIS User Community",
+  "downloaded_at": "2026-11-19T03:49:41.359716+00:00",
+  "note": "下载时间不是影像拍摄时间。中心沿用小组WGS84工作点，不是已核商场轮廓。",
+  "images": [
+    {
+      "id": "SHM000204",
+      "name": "兴业太古汇",
+      "lon": 121.4588508056594,
+      "lat": 31.230556449771296,
+      "file": "satellite/SHM000204.jpg",
+      "bbox_3857": [
+        13520269.63583994,
+        3662376.783287742,
+        13521205.212204438,
+        3663078.465561116
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13520269.635840%2C3662376.783288%2C13521205.212204%2C3663078.465561&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000222",
+      "name": "博华广场",
+      "lon": 121.45745432524845,
+      "lat": 31.237747922452026,
+      "file": "satellite/SHM000222.jpg",
+      "bbox_3857": [
+        13520114.144743793,
+        3663313.013044729,
+        13521049.792324085,
+        3664014.748729948
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13520114.144744%2C3663313.013045%2C13521049.792324%2C3664014.748730&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000258",
+      "name": "恒基688广场",
+      "lon": 121.45998858280518,
+      "lat": 31.23349413580401,
+      "file": "satellite/SHM000258.jpg",
+      "bbox_3857": [
+        13520396.278068315,
+        3662759.220556825,
+        13521331.883521073,
+        3663460.924646392
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13520396.278068%2C3662759.220557%2C13521331.883521%2C3663460.924646&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000384",
+      "name": "上海来福士广场",
+      "lon": 121.4720522786976,
+      "lat": 31.234211048150673,
+      "file": "satellite/SHM000384.jpg",
+      "bbox_3857": [
+        13521739.199002475,
+        3662852.552280803,
+        13522674.811554573,
+        3663554.2616948765
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13521739.199002%2C3662852.552281%2C13522674.811555%2C3663554.261695&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000385",
+      "name": "上海K11购物艺术中心",
+      "lon": 121.46904348285602,
+      "lat": 31.225455113975688,
+      "file": "satellite/SHM000385.jpg",
+      "bbox_3857": [
+        13521404.304726318,
+        3661712.703487149,
+        13522339.830588758,
+        3662414.3478839803
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13521404.304726%2C3661712.703487%2C13522339.830589%2C3662414.347884&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000390",
+      "name": "上海世茂广场",
+      "lon": 121.4704901044092,
+      "lat": 31.236352895654203,
+      "file": "satellite/SHM000390.jpg",
+      "bbox_3857": [
+        13521565.287950406,
+        3663131.39438057,
+        13522500.92171401,
+        3663833.1197032738
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13521565.287950%2C3663131.394381%2C13522500.921714%2C3663833.119703&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000396",
+      "name": "上海新天地",
+      "lon": 121.47042501882964,
+      "lat": 31.2233227510752,
+      "file": "satellite/SHM000396.jpg",
+      "bbox_3857": [
+        13521558.10716046,
+        3661435.128161747,
+        13522493.61191681,
+        3662136.7567290105
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13521558.107160%2C3661435.128162%2C13522493.611917%2C3662136.756729&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000399",
+      "name": "湖滨道购物中心",
+      "lon": 121.4744490301961,
+      "lat": 31.222931785386006,
+      "file": "satellite/SHM000399.jpg",
+      "bbox_3857": [
+        13522006.05999148,
+        3661384.2358019464,
+        13522941.560878305,
+        3662085.8614670644
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13522006.059991%2C3661384.235802%2C13522941.560878%2C3662085.861467&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000400",
+      "name": "新天地时尚I&II",
+      "lon": 121.47033195852035,
+      "lat": 31.22059478581016,
+      "file": "satellite/SHM000400.jpg",
+      "bbox_3857": [
+        13521547.761233252,
+        3661080.0308282105,
+        13522483.238991529,
+        3661781.6391469175
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13521547.761233%2C3661080.030828%2C13522483.238992%2C3661781.639147&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000406",
+      "name": "无限极荟购物中心",
+      "lon": 121.47325818164023,
+      "lat": 31.222505737175968,
+      "file": "satellite/SHM000406.jpg",
+      "bbox_3857": [
+        13521873.497444965,
+        3661328.7769581215,
+        13522808.994115122,
+        3662030.39946074
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13521873.497445%2C3661328.776958%2C13522808.994115%2C3662030.399461&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000357",
+      "name": "紫荆广场",
+      "lon": 121.51251482466826,
+      "lat": 31.277039698543344,
+      "file": "satellite/SHM000357.jpg",
+      "bbox_3857": [
+        13526243.256726524,
+        3668429.515099872,
+        13527179.293857826,
+        3669131.5429483475
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13526243.256727%2C3668429.515100%2C13527179.293858%2C3669131.542948&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000360",
+      "name": "宝地广场",
+      "lon": 121.5074578860608,
+      "lat": 31.263417479698163,
+      "file": "satellite/SHM000360.jpg",
+      "bbox_3857": [
+        13525680.388466537,
+        3666655.413886754,
+        13526616.290456306,
+        3667357.34037908
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13525680.388467%2C3666655.413887%2C13526616.290456%2C3667357.340379&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000361",
+      "name": "君欣·时代广场",
+      "lon": 121.5097400508294,
+      "lat": 31.275536125560986,
+      "file": "satellite/SHM000361.jpg",
+      "bbox_3857": [
+        13525934.3777762,
+        3668233.6834223308,
+        13526870.399986537,
+        3668935.7000800828
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13525934.377776%2C3668233.683422%2C13526870.399987%2C3668935.700080&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000363",
+      "name": "旭辉MALL",
+      "lon": 121.50464772740253,
+      "lat": 31.275529927851505,
+      "file": "satellite/SHM000363.jpg",
+      "bbox_3857": [
+        13525367.502956118,
+        3668232.876213006,
+        13526303.525104951,
+        3668934.8928246317
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13525367.502956%2C3668232.876213%2C13526303.525105%2C3668934.892825&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000368",
+      "name": "海上海弘基休闲广场",
+      "lon": 121.5023852011633,
+      "lat": 31.267864374012166,
+      "file": "satellite/SHM000368.jpg",
+      "bbox_3857": [
+        13525115.677713761,
+        3667234.5307779415,
+        13526051.623809593,
+        3667936.4903498143
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13525115.677714%2C3667234.530778%2C13526051.623810%2C3667936.490350&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000375",
+      "name": "假日百货",
+      "lon": 121.50797619260987,
+      "lat": 31.275969459551046,
+      "file": "satellite/SHM000375.jpg",
+      "bbox_3857": [
+        13525738.023827296,
+        3668290.122346028,
+        13526674.05033778,
+        3668992.1422288916
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13525738.023827%2C3668290.122346%2C13526674.050338%2C3668992.142229&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000439",
+      "name": "上滨生活广场",
+      "lon": 121.49922537910261,
+      "lat": 31.262019776772622,
+      "file": "satellite/SHM000439.jpg",
+      "bbox_3857": [
+        13524763.956914475,
+        3666473.3973482857,
+        13525699.845043292,
+        3667175.3134448994
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13524763.956914%2C3666473.397348%2C13525699.845043%2C3667175.313445&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000441",
+      "name": "瑞虹生活广场",
+      "lon": 121.49484636831833,
+      "lat": 31.263188726665277,
+      "file": "satellite/SHM000441.jpg",
+      "bbox_3857": [
+        13524276.481867615,
+        3666625.6242280984,
+        13525212.381588783,
+        3667327.5490189753
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13524276.481868%2C3666625.624228%2C13525212.381589%2C3667327.549019&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    },
+    {
+      "id": "SHM000452",
+      "name": "骏丰国际财富广场",
+      "lon": 121.49757814135748,
+      "lat": 31.27582355972854,
+      "file": "satellite/SHM000452.jpg",
+      "bbox_3857": [
+        13524580.518780554,
+        3668271.119817532,
+        13525516.543843204,
+        3668973.138614521
+      ],
+      "ground_width_m_approx": 800,
+      "ground_height_m_approx": 600,
+      "pixel_size": [
+        1200,
+        900
+      ],
+      "source_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=13524580.518781%2C3668271.119818%2C13525516.543843%2C3668973.138615&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&f=image",
+      "imagery_capture_date": null
+    }
+  ]
+}
